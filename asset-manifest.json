@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vilgudolga/goit-react-hw-02-feedback/static/css/main.7acaea2f.css",
-    "main.js": "/vilgudolga/goit-react-hw-02-feedback/static/js/main.07d3183d.js",
+    "main.css": "/vilgudolga/goit-react-hw-02-feedback/static/css/main.bf341bab.css",
+    "main.js": "/vilgudolga/goit-react-hw-02-feedback/static/js/main.284b5c1f.js",
     "index.html": "/vilgudolga/goit-react-hw-02-feedback/index.html",
-    "main.7acaea2f.css.map": "/vilgudolga/goit-react-hw-02-feedback/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/vilgudolga/goit-react-hw-02-feedback/static/js/main.07d3183d.js.map"
+    "main.bf341bab.css.map": "/vilgudolga/goit-react-hw-02-feedback/static/css/main.bf341bab.css.map",
+    "main.284b5c1f.js.map": "/vilgudolga/goit-react-hw-02-feedback/static/js/main.284b5c1f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.bf341bab.css",
+    "static/js/main.284b5c1f.js"
   ]
 }
